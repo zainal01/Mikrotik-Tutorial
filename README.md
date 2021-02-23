@@ -1,2 +1,0 @@
-# Mikrotik-Tutorial
-Mikrotik Tutorial
